@@ -2,4 +2,4 @@ bin/*
 Debug/ 
 Release/
 obj/*
-obj/staticwebassets.pack.sentinel
+staticwebassets.pack.sentinel
