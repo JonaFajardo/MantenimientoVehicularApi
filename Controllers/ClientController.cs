@@ -89,7 +89,7 @@ namespace MantenimientoVehicularApi.Controllers
                 Identification=clientItemDTO.Identification,
                 IsActive=true,
                 RegisterDate= DateTime.Now,
-                RegisterUser="dtorres"
+                RegisterUser="admin"
             };          
 
         _context.Client.Add(client);

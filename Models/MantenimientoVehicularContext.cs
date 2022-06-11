@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using System.Diagnostics.CodeAnalysis;
+using MantenimientoVehicularApi.Models;
 
 namespace MantenimientoVehicularApi.Models
 {
@@ -10,6 +10,9 @@ namespace MantenimientoVehicularApi.Models
         }
     public DbSet<Client> Client { get; set; }=null!;
     public DbSet<User> User { get; set; }=null!;
+
+    public DbSet<car>Car { get; set; }=null!;
+    
     
     }
 }

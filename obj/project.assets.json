@@ -9656,11 +9656,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AnnieV\\Documents\\Proyecto Web Jonathan\\MantenimientoVehicularApi\\MantenimientoVehicularApi.csproj",
+      "projectUniqueName": "C:\\Users\\AnnieV\\Documents\\Proyecto Web Curso Sabatino\\MantenimientoVehicularApi\\MantenimientoVehicularApi.csproj",
       "projectName": "MantenimientoVehicularApi",
-      "projectPath": "C:\\Users\\AnnieV\\Documents\\Proyecto Web Jonathan\\MantenimientoVehicularApi\\MantenimientoVehicularApi.csproj",
+      "projectPath": "C:\\Users\\AnnieV\\Documents\\Proyecto Web Curso Sabatino\\MantenimientoVehicularApi\\MantenimientoVehicularApi.csproj",
       "packagesPath": "C:\\Users\\AnnieV\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AnnieV\\Documents\\Proyecto Web Jonathan\\MantenimientoVehicularApi\\obj\\",
+      "outputPath": "C:\\Users\\AnnieV\\Documents\\Proyecto Web Curso Sabatino\\MantenimientoVehicularApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AnnieV\\AppData\\Roaming\\NuGet\\NuGet.Config"
