@@ -42,7 +42,5 @@ app.UseCors(MyAllowSpecificOrigins);
 app.UseAuthorization();
 
 app.MapControllers();
-//app.MapGet("/",()=>"Hola amor");
-//app.MapGet("/otroget/{name}",(string name)=>$"Hola don {name}" );
 
 app.Run();

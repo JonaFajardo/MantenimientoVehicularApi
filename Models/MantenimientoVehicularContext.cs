@@ -9,6 +9,7 @@ namespace MantenimientoVehicularApi.Models
         {
         }
     public DbSet<Client> Client { get; set; }=null!;
+    public DbSet<User> User { get; set; }=null!;
     
     }
 }
