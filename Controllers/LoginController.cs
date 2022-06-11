@@ -27,7 +27,7 @@ namespace MantenimientoVehicularApi.Controllers
         }
 
         // GET: api/Login/5
-        [HttpGet("{username/password}")]
+        [HttpGet("{username}/{password}")]
         public  ActionResult<List<User>> LoginUser(string username, string password)
         {
           if (_context.User == null)
